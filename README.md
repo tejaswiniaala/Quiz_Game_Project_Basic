@@ -1,2 +1,2 @@
-# Quiz_Game_Project_Basic
+# Python_Baisc_Project-1
 Basic quiz game project 
